@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/Mizing/Python-Project---EDA/blob/main/MIZING_BASUMATARY_16_OCT_2022.ipynb)
+- [Solution on Github](https://github.com/Mizing/Python-Project---EDA/blob/main/EDA%20on%20E-Commerce%20Company)
 
 ***
 
