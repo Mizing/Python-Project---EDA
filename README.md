@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/Mizing/SQL-Project/blob/main/solution.md)
+- [Solution on Github](https://github.com/Mizing/Python-Project---EDA/blob/main/MIZING_BASUMATARY_16_OCT_2022.ipynb)
 
 ***
 
